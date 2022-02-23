@@ -18,6 +18,9 @@ the HMI interface i created.
 - below is the whole sfc program that are the main flow control of the machine
 
 ![image](https://user-images.githubusercontent.com/39961019/154856407-5ee6e2ec-3830-4fdb-9047-6c00bbd0f46d.png) 
+
+
+Link of the video demonstrate the demo running of the machine: <https://www.youtube.com/watch?v=AsqbEv4XG9c>
     
 
   
